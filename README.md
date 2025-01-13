@@ -30,6 +30,11 @@ Ensure the following are installed on your system:
    git clone https://github.com/vo-hoang-kh4ng/fastapi-hello-world.git
    cd fastapi-hello-world
 2. Create and activate a virtual environment:
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
 
