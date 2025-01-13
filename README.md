@@ -40,6 +40,9 @@ Ensure the following are installed on your system:
    ```bash
    pip install -r requirements.txt
 5.Open your browser and navigate to:
- ```bash
-App: http://127.0.0.1:8000
+   ```bash
+   App: http://127.0.0.1:8000
+
+
+
 
