@@ -29,3 +29,7 @@ Ensure the following are installed on your system:
    ```bash
    git clone https://github.com/vo-hoang-kh4ng/fastapi-hello-world.git
    cd fastapi-hello-world
+2. Create and activate a virtual environment:
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
