@@ -36,5 +36,10 @@ Ensure the following are installed on your system:
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
+4. Start the FastAPI application:
+   ```bash
+   pip install -r requirements.txt
+5.Open your browser and navigate to:
+ ```bash
+App: http://127.0.0.1:8000
 
